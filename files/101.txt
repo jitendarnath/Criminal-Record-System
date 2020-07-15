@@ -1,0 +1,1 @@
+101,Gandhi,59,Male,Lawyer,Suicide,3 years,31/01/1947,High,Salt theft
